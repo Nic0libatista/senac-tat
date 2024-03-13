@@ -1,1 +1,2 @@
 integração do Visual Studio
+texto qualquer
